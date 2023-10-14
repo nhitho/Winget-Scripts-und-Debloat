@@ -37,7 +37,7 @@ foreach ($app in $applications.GetEnumerator()) {
     New-Item -Path $appFolder -ItemType Directory -Force
 
     # Install mit Packetbestaetigung
-    winget install --location $appFolder --id $appId --accept-package-agreements
+    winget install --location $appFolder --id $appId --accept-package-agreements --scope maschine
 }
 
 Write-Host "Die Installationen wurden abgeschlossen."
