@@ -2,7 +2,7 @@
 $SkriptPfad = "C:\Pfad\zur\Datei\update_apps.ps1"
 
 # Geben Sie hier Ihren Benutzernamen ein
-$user = "user"
+$user = $env:USERNAME
 
 # Erstellen Sie eine Aktion, um das Skript auszufuehren
 $Action = New-ScheduledTaskAction -Execute 'PowerShell.exe' -Argument "-ExecutionPolicy Bypass -File $SkriptPfad"
