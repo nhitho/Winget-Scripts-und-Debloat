@@ -6,7 +6,7 @@ Für automatische Updates und für Installieren der Apps.
 
 # Beachtung der Installation
 
-Je nach Bedürfnis bitte aus der Text Datei die Namen und ID beim winget_install_apps unter ```"@application"``` einfügen.
+Je nach Bedürfnis bitte aus der TextDatei (Ist noch nicht vorhanden) die Namen und ID beim winget_install_apps unter ```"@application"``` einfügen.
 ```
 # Anwendungen mit Namen und dazugehoerigen ID
 $applications = @{
