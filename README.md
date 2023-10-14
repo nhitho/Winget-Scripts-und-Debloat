@@ -38,6 +38,6 @@ Sie können auch die Wartezeit verringern, wenn Sie den ``` "Start-Sleep -Second
 Vorerst ist noch kein Script vorhanden.
 Werde es noch bei Bedarf hinzufügen.
 
-#Liste für Apps !! Under Development!
+# Liste für Apps !! Under Development!
 
 Wird später nachgereichet.
