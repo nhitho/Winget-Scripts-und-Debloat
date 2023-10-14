@@ -24,6 +24,7 @@ $applications = @{
     "NVIDIA GeForce Experience"="Nvidia.GeForceExperience";
     "Proton Mail Bridge"="ProtonTechnologies.ProtonMailBridge";
     "Samsung Magician"=" Samsung.SamsungMagician";
+    "7-Zip"="7zip.7zip";
 }
 
 # Install Apps anhand ID und Erstellung anhand appName den Ordner
